@@ -1,0 +1,22 @@
+{
+    "name": "hoannc54/image_checker",
+    "description": "Dectect image format",
+    "keywords": ["image", "detect"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Cong Hoan",
+            "email": "nguyenconghoan94@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Joan\\ImageChecker\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    }
+}
